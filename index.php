@@ -5,4 +5,4 @@ dbname=d6n1katka2ipef
 user=etxsjxquwxnjwo
 password=poo-nHE9knl7JXfYQdCNpu5K_9";
 pg_connect($con_string) or die('Conexão falhou!');
-echo "Conectado no Postgres com sucesso!";
+echo "novo tesdasdasdte!";
